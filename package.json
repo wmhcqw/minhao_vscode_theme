@@ -1,6 +1,7 @@
 {
   "name": "minhao-theme",
   "displayName": "minhao_theme",
+  "publisher": "MinhaoWang",
   "description": "",
   "version": "0.0.1",
   "engines": {

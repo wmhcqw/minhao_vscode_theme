@@ -173,7 +173,8 @@
 				"string.quoted.docstring.multi"
 			],
 			"settings": {
-				"foreground": "#c2c3c5"
+				"foreground": "#a1a3a7",
+				"fontStyle": "italic"
 			}
 		},
 		{
