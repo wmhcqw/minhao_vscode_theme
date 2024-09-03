@@ -1,0 +1,21 @@
+{
+  "name": "minhao-theme",
+  "displayName": "minhao_theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "minhao",
+        "uiTheme": "vs",
+        "path": "./themes/minhao-color-theme.json"
+      }
+    ]
+  }
+}
